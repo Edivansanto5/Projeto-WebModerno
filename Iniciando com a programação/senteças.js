@@ -1,1 +1,0 @@
-console.log("ola aqui e  uma senteça de codigo")
