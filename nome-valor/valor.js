@@ -1,12 +1,13 @@
+// exemplo um objetos são aninhada de pares e valores exemplo abaixo!
 const saudacao = 'Bom dia';
 function exec(){
     
     const saudacao = 'Meu bemzinho'
-    return saudacao
+   return saudacao // se nao tivesse retorno dava um undefined
 }
 console.log(saudacao)
 console.log(exec())
-// outro exemplo de funçao no formato de objeto
+
 
 let dadosPessoais = {
     nome:'Edivan dos santos oliveira',
