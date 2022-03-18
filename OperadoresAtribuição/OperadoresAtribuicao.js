@@ -16,5 +16,11 @@ let f = 5
 e *= f; // e = e * f
 console.log(e)
 
+//tribuição modular ou seja a parte que sobra de uma divisão 
+let g = 13
+let h = 5
+g %= h; // g =  g * h
+console.log(g)
+
 
 
