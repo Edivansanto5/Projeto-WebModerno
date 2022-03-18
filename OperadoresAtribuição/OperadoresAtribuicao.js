@@ -1,3 +1,4 @@
+// todos esses operadores de atribuiçao são todos de incremento 
 // atribuição aditiva
 let a = 7;
 let b = 2
@@ -21,6 +22,9 @@ let g = 13
 let h = 5
 g %= h; // g =  g * h
 console.log(g)
+
+
+
 
 
 
