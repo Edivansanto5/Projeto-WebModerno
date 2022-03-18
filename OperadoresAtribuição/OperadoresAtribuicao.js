@@ -1,4 +1,4 @@
-// todos esses operadores de atribuiçao são todos de incremento 
+// todos esses operadores de atribuição 
 // atribuição aditiva
 let a = 7;
 let b = 2
