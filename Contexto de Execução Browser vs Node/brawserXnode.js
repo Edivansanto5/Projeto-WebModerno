@@ -6,6 +6,7 @@ this.d = false
 this.e = 'texte'
 
 console.log(a)
+console.log(this.a);
 console.log(global.b)
 console.log(this.c)
 console.log(module.exports.c);
