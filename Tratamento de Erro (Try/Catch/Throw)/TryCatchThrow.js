@@ -4,11 +4,10 @@ function tratarErro(erro){
 
 function imprimirNomeGriando (obj){
     try{
-        console.log(obj.name.toUpperCase()+'!!!!')
+        console.log(obj.nome.toUpperCase()+'!!!!')
     }catch(erro){
-        tratarErro(erro)
+      
     }
-
 }
 const obj = {nome:'raimundo'}
 imprimirNomeGriando(obj)
