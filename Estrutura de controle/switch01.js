@@ -22,8 +22,9 @@ imprimirResultado = function(valor){
             break;
         default:
             console.log('Comando invalido');
+            console.log('Se lascou otaro ');
             
     }
 }
-imprimirResultado(10)
+imprimirResultado(6.9)
 
