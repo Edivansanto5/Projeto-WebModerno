@@ -1,4 +1,4 @@
-Number.prototype.entre = function(inicio,fim){
+Number.entre = function(inicio,fim){
     return this >= inicio && this <= fim
 }
 // atribuindo uma funçao em uma variavel!
